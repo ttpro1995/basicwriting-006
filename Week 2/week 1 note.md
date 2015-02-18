@@ -1,3 +1,9 @@
 #Unit 2 the part of speech.
 
-### There are 8 parts of speech.
+
+
+**(1) Nouns, Pronouns, and Adjectives** <br>
+**(2) Verbs and Adverbs** <br>
+**(3) Prepositions, Conjunctions, and Interjections**
+
+
